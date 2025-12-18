@@ -1,0 +1,1 @@
+This repository contains computational supporting information for the manuscript "Importance of Nonadiabatic Effects in Modeling Absorption Spectra of Indole and Cyanoindole Derivatives in Solution" by D. Bashirova, J. Stein, K. Siegfried, and T. J. Zuehlsdorff
