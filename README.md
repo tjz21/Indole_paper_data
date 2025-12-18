@@ -2,6 +2,8 @@ This repository contains computational supporting information for the manuscript
 <p align="center">
   <img src="https://github.com/user-attachments/assets/afe1f4e7-bb78-401d-87c1-4a09ccd77682" width='300' />
 </p>
+
+```bash
 .
 ├── 2CNI
 │   ├── GCT  # contains raw absorption spectra and spectral densities
