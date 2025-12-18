@@ -1,0 +1,13 @@
+# basis set: 6-31+G*
+basis		6-31+G*
+# coordinates file
+coordinates	indole_opt.xyz
+# molecule charge
+charge          0
+method		camb3lyp
+run		md
+nstep           44000
+timestep        0.5
+thermostat      langevin
+t0      300.0
+end
